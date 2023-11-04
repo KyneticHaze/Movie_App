@@ -1,7 +1,7 @@
-<h1 align="center">Movie_App</h1>
+<h1 align="center">Movie_App 🎥</h1>
 
 <h3>
-  Project Description
+  Project Description 📖
 </h3>
 
 <p>
@@ -14,14 +14,22 @@
 </div>
 
 <h1>
-  Architecture
+  Architecture ⚒️
 </h1>
 
 <p>This app uses MVVM (Model-View-ViewModel) Clean Architecture</p>
 
 <img src="https://user-images.githubusercontent.com/120178827/279447075-0af94362-3c95-469d-820f-98ffacc3a775.png">
 
-<h1>Tech Stack 🛠️</h1>
+<h1>
+  API 🌐
+</h1>
+
+[OMDb API - The Open Movie Database](https://www.omdbapi.com/)
+
+
+
+<h1>Tech Stack 💎</h1>
 
 - Minimum sdk level 30
 - 100% Kotlin based and [Coroutines](https://developer.android.com/kotlin/coroutines?hl=tr) and [Flow](https://developer.android.com/kotlin/flow?hl=tr)
